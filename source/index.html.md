@@ -30,9 +30,7 @@ This example API documentation page was created with [Slate](https://github.com/
 > To authorize, use this code:
 
 ```liquid
-require 'kittn'
-
-api = Kittn::APIClient.authorize!('meowmeowmeow')
+{{product.name}}
 ```
 
 ```python
